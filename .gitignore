@@ -1,0 +1,10 @@
+*/node_modules
+*/package-lock.*
+*/.DS_Store
+
+# Ignore test-related files
+/coverage.data
+/coverage/
+
+# Build files
+*/dist
