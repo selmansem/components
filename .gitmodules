@@ -1,0 +1,3 @@
+[submodule "energy-sphere"]
+	path = energy-sphere
+	url = git@github.com:selmansem/energy-sphere.git
